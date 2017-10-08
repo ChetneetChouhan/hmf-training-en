@@ -44,7 +44,7 @@ The first real computer was the big ENIAC (Electrical Numerical Integrator and C
 
 Around the 1950s appeared the transistor : more efficient and smaller, it has replaced big lamp and is present in radios, computers, amplifier ...
 
-In the 1960s, thanks to the transistor, IBM has developped mainframes and was the leader in computer. But mainframes was exepensive, large, and difficult to use.
+In the 1960s, thanks to the transistor, IBM has developped mainframes and was the leader in computer. But mainframes was expensive, large, and difficult to use.
 
 ## Personal computer, or PC
 
